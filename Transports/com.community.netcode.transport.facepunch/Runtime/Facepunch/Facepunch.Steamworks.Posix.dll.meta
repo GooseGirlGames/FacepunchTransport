@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fc89a528dd38bd04a90af929e9c0f80e
+guid: c2648c0bc2c50e22780bbd6c644f1a0c
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -33,7 +33,7 @@ PluginImporter:
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
-        OS: OSX
+        OS: Linux
   - first:
       Facebook: Win
     second:
